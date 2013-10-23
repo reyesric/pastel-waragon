@@ -3,9 +3,9 @@ pastel-waragon
 
 La combinación de ingredientes en el molde se representa como una lista de 9 elementos
 
- A B C
- D E F   --->  A B C D E F G H I
- G H I
+A B C
+D E F   --->  A B C D E F G H I
+G H I
 
 
 Cualquier combinacion exitosa tiene que ser de dos tipos posibles:
