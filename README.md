@@ -1,8 +1,6 @@
 pastel-waragon
 ==============
 
-Resolución del ejercicio para Waragon
-
 La combinación de ingredientes en el molde se representa como una lista de 9 elementos
 
  A B C
